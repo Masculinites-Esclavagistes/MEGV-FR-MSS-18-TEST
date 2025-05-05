@@ -1,0 +1,36 @@
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: MEGV-FR-MSS-18-TEST
+url: https://github.com/Masculinites-Esclavagistes/MEGV-FR-MSS-18-TEST
+authors:
+  - name: Marion
+    surname: Philip
+    orcid: 0009-0001-6846-2688
+    roles:
+      - transcriber
+  - name: Simon
+    surname: Gabay
+    orcid: 0000-0001-9094-4475
+    roles:
+      - support
+institutions: []
+description: Dataset to test HTR-models, trained with the MEGV-FR-MSS-18 data sets.
+project-name: MEGV project
+project-website: https://www.unige.ch/masculinitesesclavagistes/
+language:
+  - fra
+production-software: eScriptorium + Kraken
+automatically-aligned: false
+script:
+  - iso: Latn
+script-type: only-manuscript
+time:
+  notBefore: '1700'
+  notAfter: '1800'
+hands:
+  count: unknown
+  precision: exact
+license:
+  name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
+transcription-guidelines: 'https://hal.science/CESR/hal-04801645v1 '
