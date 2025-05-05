@@ -7,7 +7,7 @@ This repo contains the transcription of 18th c. French manuscripts, from a compo
 
 ## Content
 
-Data comes from the project entitled "Masculinités esclavagistes : genre et violence dans la Caraïbe française (XVIIIème siècle)", led by Marie Houllemare, at Geneva University (Switzerland), financed by SNSF. Transcriptions are made by Marion Philip with the support of Simon Gabay and Thomas Gauffroy-Naudin, with eScriptorium. 
+Data comes from the project entitled "Masculinités esclavagistes : genre et violence dans la Caraïbe française (XVIIIème siècle)", led by Marie Houllemare, at Geneva University (Switzerland), financed by SNSF. Transcriptions are made by Marion Philip with the support of Simon Gabay, with eScriptorium. 
 
 
 | Archive conservation institution | Description                                                                                    | File Number                     | Transcription |
