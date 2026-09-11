@@ -1,36 +1,134 @@
-schema: https://htr-united.github.io/schema/2023-06-27/schema.json
-title: MEGV-FR-MSS-18-TEST
-url: https://github.com/Masculinites-Esclavagistes/MEGV-FR-MSS-18-TEST
 authors:
-  - name: Marion
-    surname: Philip
-    orcid: 0009-0001-6846-2688
-    roles:
-      - transcriber
-  - name: Simon
-    surname: Gabay
-    orcid: 0000-0001-9094-4475
-    roles:
-      - support
-institutions: []
-description: Dataset to test HTR-models, trained with the MEGV-FR-MSS-18 data sets.
-project-name: MEGV project
-project-website: https://www.unige.ch/masculinitesesclavagistes/
-language:
-  - fra
-production-software: eScriptorium + Kraken
+- name: Marion
+  orcid: 0009-0001-6846-2688
+  roles:
+  - transcriber
+  surname: Philip
+- name: Simon
+  orcid: 0000-0001-9094-4475
+  roles:
+  - support
+  surname: Gabay
 automatically-aligned: false
-script:
-  - iso: Latn
-script-type: only-manuscript
-time:
-  notBefore: '1700'
-  notAfter: '1800'
+characters:
+  members:
+  - e
+  - a
+  - s
+  - r
+  - i
+  - n
+  - u
+  - t
+  - o
+  - l
+  - d
+  - .
+  - m
+  - c
+  - p
+  - "'"
+  - v
+  - ́
+  - q
+  - f
+  - ','
+  - g
+  - h
+  - ^
+  - b
+  - '1'
+  - j
+  - x
+  - y
+  - C
+  - M
+  - D
+  - ̀
+  - '2'
+  - '0'
+  - '7'
+  - L
+  - '3'
+  - ;
+  - '6'
+  - B
+  - '4'
+  - '5'
+  - –
+  - E
+  - ̂
+  - S
+  - I
+  - '8'
+  - P
+  - '9'
+  - R
+  - A
+  - T
+  - z
+  - ̈
+  - J
+  - N
+  - '&'
+  - '%'
+  - F
+  - G
+  - ⟦
+  - ⟧
+  - Q
+  - ¬
+  - O
+  - ̧
+  - V
+  - (
+  - ̃
+  - °
+  - )
+  - ':'
+  - /
+  - ※
+  - H
+  - '-'
+  - ꝓ
+  - '['
+  - ']'
+  - ⎀
+  - Z
+  - U
+  - X
+  - k
+  mode: NFD
+description: Dataset to test HTR-models, trained with the MEGV-FR-MSS-18 data sets.
+format: Alto-XML
 hands:
   count: unknown
   precision: exact
+institutions: []
+language:
+- fra
 license:
   name: CC-BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
-format: Alto-XML
+production-software: eScriptorium + Kraken
+project-name: MEGV project
+project-website: https://www.unige.ch/masculinitesesclavagistes/
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+script:
+- iso: Latn
+script-type: only-manuscript
+time:
+  notAfter: '1800'
+  notBefore: '1700'
+title: MEGV-FR-MSS-18-TEST
 transcription-guidelines: 'https://hal.science/CESR/hal-04801645v1 '
+url: https://github.com/Masculinites-Esclavagistes/MEGV-FR-MSS-18-TEST
+volume:
+- count: 18055
+  metric: characters
+- count: 11
+  metric: files
+- count: 446
+  metric: lines
+- count: 44
+  metric: regions
